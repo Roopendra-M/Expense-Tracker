@@ -1,2 +1,1 @@
-# Expense-Tracker
-this is roopendra
+Final README Content (after resolving conflict)
